@@ -1,6 +1,4 @@
-# K-means-clustering-
-Car  segmentation  based on unique features with K-means clustering 
-Certainly! Below is a simple template for documenting a k-means clustering project. Feel free to customize it based on the specifics of your project:
+# K-means-clustering
 
 ---
 
